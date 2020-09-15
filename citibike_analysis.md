@@ -23,6 +23,6 @@ Census Age: https://data.census.gov/cedsci/table?q=S0101&g=1600000US1921000&tid=
 Census Income: https://data.census.gov/cedsci/table?q=S1901&g=1600000US1921000&tid=ACSST5Y2017.S1901&hidePreview=true&moe=false
 
 
-### Link to Dashboard
+### Link to Tableau Story Dashboard
 
 https://public.tableau.com/shared/RFS6XTN5D?:display_count=y&:origin=viz_share_link

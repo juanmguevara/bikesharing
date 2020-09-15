@@ -25,6 +25,4 @@ Census Income: https://data.census.gov/cedsci/table?q=S1901&g=1600000US1921000&t
 
 ### Link to Dashboard
 
-[link to dashboard](LINK GOES HERE "https://public.tableau.com/shared/S9M7Y26F8?:display_count=y&:origin=viz_share_link")
-
 https://public.tableau.com/shared/RFS6XTN5D?:display_count=y&:origin=viz_share_link
